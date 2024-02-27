@@ -1,0 +1,17 @@
+{
+  "name": "02-bases",
+  "version": "0.0.1",
+  "description": "Bases para trabajar con Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch src/app.js"
+  },
+  "author": "Ignacio Molina",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "get-age": "^1.0.1",
+    "uuid": "^9.0.1"
+  }
+}
