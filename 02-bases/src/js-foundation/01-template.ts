@@ -1,6 +1,6 @@
 export const emailTemplate = `
 <div>
-  <h1> Hi. {{name}} </h1>
+  <h1> Hi, {{name}} </h1>
   <p>
     Thanks for signing up!
   </p>
